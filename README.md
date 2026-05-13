@@ -1,6 +1,6 @@
 # Hi, I'm Ali Zain 👋
 
-Software Engineer specializing in Generative AI and Voice Agents. I build production systems that real businesses run on — not side projects, not demos. Currently at **Vectorr.io** in Lahore, shipping AI-powered products end to end.
+Software Engineer specializing in Generative AI and Voice Agents. I build production systems that real businesses run on — not side projects, not demos. Shipping AI-powered products end to end.
 
 ---
 
