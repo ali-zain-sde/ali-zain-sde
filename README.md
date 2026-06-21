@@ -14,5 +14,3 @@ Outside of engineering, I'm probably reading about cars or losing a FIFA match.
 
 ## Technology Stack
 [![SkillIcons](https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,react,nextjs,aws,docker,git)](https://skillicons.dev)
-
-📍 Lahore, Pakistan · [Portfolio](https://ali-zain.vercel.app) · [LinkedIn](https://linkedin.com/in/ali-zain-sde)
