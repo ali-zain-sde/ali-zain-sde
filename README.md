@@ -10,7 +10,7 @@ On the frontend, I work with React and Next.js to wire everything together end t
 
 For deployment, I work with AWS and Docker, and Git keeps everything sane along the way.
 
-Outside of engineering, I'm probably reading about cars or losing a FIFA match.
+Outside of engineering, I'm probably playing table tennis or reading a book.
 
 ## Technology Stack
 [![SkillIcons](https://skillicons.dev/icons?i=python,django,fastapi,postgres,redis,react,nextjs,aws,docker,git)](https://skillicons.dev)
